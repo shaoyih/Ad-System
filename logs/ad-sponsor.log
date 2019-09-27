@@ -1,0 +1,26 @@
+[2019-09-27 10:34:00:196] main INFO com.learn.ad.SponsorApplication 659 - No active profile set, falling back to default profiles: default
+[2019-09-27 10:34:16:396] main INFO com.learn.ad.SponsorApplication 59 - Started SponsorApplication in 24.427 seconds (JVM running for 27.38)
+[2019-09-27 11:07:41:248] http-nio-7000-exec-2 INFO c.l.ad.controller.AdPlanOPController 37 - ad-sponsor getPlanByIds-> {"ids":[10],"userId":15}
+[2019-09-27 11:07:41:251] http-nio-7000-exec-2 INFO c.l.a.service.impl.AdPlanServiceImpl 61 - 成了
+[2019-09-27 11:07:43:591] http-nio-7000-exec-3 INFO c.l.ad.controller.AdPlanOPController 37 - ad-sponsor getPlanByIds-> {"ids":[10],"userId":15}
+[2019-09-27 11:07:43:593] http-nio-7000-exec-3 INFO c.l.a.service.impl.AdPlanServiceImpl 61 - 成了
+[2019-09-27 11:07:50:337] http-nio-7000-exec-4 INFO c.l.ad.controller.AdPlanOPController 37 - ad-sponsor getPlanByIds-> {"ids":[10],"userId":15}
+[2019-09-27 11:07:50:338] http-nio-7000-exec-4 INFO c.l.a.service.impl.AdPlanServiceImpl 61 - 成了
+[2019-09-27 11:07:52:108] http-nio-7000-exec-5 INFO c.l.ad.controller.AdPlanOPController 37 - ad-sponsor getPlanByIds-> {"ids":[10],"userId":15}
+[2019-09-27 11:07:52:109] http-nio-7000-exec-5 INFO c.l.a.service.impl.AdPlanServiceImpl 61 - 成了
+[2019-09-27 11:07:53:384] http-nio-7000-exec-6 INFO c.l.ad.controller.AdPlanOPController 37 - ad-sponsor getPlanByIds-> {"ids":[10],"userId":15}
+[2019-09-27 11:07:53:384] http-nio-7000-exec-6 INFO c.l.a.service.impl.AdPlanServiceImpl 61 - 成了
+[2019-09-27 11:07:54:340] http-nio-7000-exec-7 INFO c.l.ad.controller.AdPlanOPController 37 - ad-sponsor getPlanByIds-> {"ids":[10],"userId":15}
+[2019-09-27 11:07:54:341] http-nio-7000-exec-7 INFO c.l.a.service.impl.AdPlanServiceImpl 61 - 成了
+[2019-09-27 11:07:55:221] http-nio-7000-exec-8 INFO c.l.ad.controller.AdPlanOPController 37 - ad-sponsor getPlanByIds-> {"ids":[10],"userId":15}
+[2019-09-27 11:07:55:221] http-nio-7000-exec-8 INFO c.l.a.service.impl.AdPlanServiceImpl 61 - 成了
+[2019-09-27 11:09:26:082] http-nio-7000-exec-1 INFO c.l.ad.controller.AdPlanOPController 37 - ad-sponsor getPlanByIds-> {"ids":[10],"userId":15}
+[2019-09-27 11:09:26:082] http-nio-7000-exec-1 INFO c.l.a.service.impl.AdPlanServiceImpl 61 - 成了
+[2019-09-27 11:09:27:676] http-nio-7000-exec-2 INFO c.l.ad.controller.AdPlanOPController 37 - ad-sponsor getPlanByIds-> {"ids":[10],"userId":15}
+[2019-09-27 11:09:27:676] http-nio-7000-exec-2 INFO c.l.a.service.impl.AdPlanServiceImpl 61 - 成了
+[2019-09-27 11:09:28:841] http-nio-7000-exec-3 INFO c.l.ad.controller.AdPlanOPController 37 - ad-sponsor getPlanByIds-> {"ids":[10],"userId":15}
+[2019-09-27 11:09:28:841] http-nio-7000-exec-3 INFO c.l.a.service.impl.AdPlanServiceImpl 61 - 成了
+[2019-09-27 11:09:29:870] http-nio-7000-exec-4 INFO c.l.ad.controller.AdPlanOPController 37 - ad-sponsor getPlanByIds-> {"ids":[10],"userId":15}
+[2019-09-27 11:09:29:871] http-nio-7000-exec-4 INFO c.l.a.service.impl.AdPlanServiceImpl 61 - 成了
+[2019-09-27 11:29:33:319] http-nio-7000-exec-7 INFO c.l.ad.controller.AdPlanOPController 37 - ad-sponsor getPlanByIds-> {"ids":[10],"userId":15}
+[2019-09-27 11:29:33:319] http-nio-7000-exec-7 INFO c.l.a.service.impl.AdPlanServiceImpl 61 - 成了

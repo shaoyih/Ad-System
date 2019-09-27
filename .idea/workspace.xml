@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5987ed03-6972-419a-ba90-b62f4e8470be" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QzzYrSopKXUG41kvzni6I9B4lq" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ad-service/ad-binlog-kafka/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.learn.ad.index" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\95155\Desktop\adv\ad-service\ad-binlog-kafka\src\main\resources" />
+      <recent name="C:\Users\95155\Desktop\adv\ad-service\ad-binlog-kafka\src\main\java\com\learn\ad" />
+      <recent name="C:\Users\95155\Desktop\adv\ad-service\ad-binlog-common\src\main\java\com\learn\ad" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SponsorApplication">
+    <configuration name="SearchApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.ad.SearchApplication" />
+      <module name="ad-search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.ad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DumpDataService.dumpAdTableData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ad-sponsor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.ad.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.learn.ad.service" />
+      <option name="MAIN_CLASS_NAME" value="com.learn.ad.service.DumpDataService" />
+      <option name="METHOD_NAME" value="dumpAdTableData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTest.testFetchAds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ad-search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.ad.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.learn.ad.search" />
+      <option name="MAIN_CLASS_NAME" value="com.learn.ad.search.SearchTest" />
+      <option name="METHOD_NAME" value="testFetchAds" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinlogKafkaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ad-binlog-kafka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.learn.ad.BinlogKafkaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DashBoardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ad-dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.learn.ad.DashBoardApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="adeureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.ad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.learn.ad.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ad-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.learn.ad.SearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SponsorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ad-sponsor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.learn.ad.SponsorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zuul" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="adgateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.learn.ad.Zuul" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="adgateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.ad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.learn.ad.ZuulGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EurekaApplication" />
+        <item itemvalue="Application.SearchApplication" />
+        <item itemvalue="Spring Boot.ZuulGatewayApplication" />
+        <item itemvalue="JUnit.SearchTest.testFetchAds" />
+        <item itemvalue="JUnit.DumpDataService.dumpAdTableData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.25910932" />
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@52dab2d8" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@52dab2d8" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@ee23e515" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5987ed03-6972-419a-ba90-b62f4e8470be" name="Default Changelist" comment="" />
+      <created>1568788262372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568788262372</updated>
+      <workItem from="1568788263909" duration="1978000" />
+      <workItem from="1568911181298" duration="11607000" />
+      <workItem from="1569000319532" duration="6066000" />
+      <workItem from="1569016260886" duration="19761000" />
+      <workItem from="1569100027327" duration="17191000" />
+      <workItem from="1569175117425" duration="4423000" />
+      <workItem from="1569194919622" duration="12053000" />
+      <workItem from="1569253703041" duration="9889000" />
+      <workItem from="1569274605232" duration="10266000" />
+      <workItem from="1569300577644" duration="3594000" />
+      <workItem from="1569341214820" duration="9134000" />
+      <workItem from="1569355917670" duration="11098000" />
+      <workItem from="1569445447404" duration="7489000" />
+      <workItem from="1569482165342" duration="2624000" />
+      <workItem from="1569508228406" duration="1576000" />
+      <workItem from="1569510031010" duration="23931000" />
+      <workItem from="1569598567157" duration="7095000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
