@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-The project is an backend Advertisement system (content based filtered) developed under framework Spring-cloud. Integrated with technologies Eureka server, Restful API, Feign, Kafka and ELK tools. Used MySQL as the database. At the end, recommendation function is tested by Postman. Users can be both sponsors or customers. 
+The project is an backend Advertisement Indexing system developed under framework Spring-cloud. Integrated with technologies Eureka server, Restful API, Feign, Kafka and ELK tools. Used MySQL as the database. At the end, recommendation function is tested by Postman. Users can be both sponsors or customers. 
 
 
 
